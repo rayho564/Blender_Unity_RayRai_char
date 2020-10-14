@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 64fd9d88fabf77e4db54a857ba44ecea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avocado Creamy
+  fontNames:
+  - Avocado Creamy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b619fe63e2be234d8cae13f62e7c69c, type: 3}
+  - {fileID: 12800000, guid: b9723b9b0217bb2468ff1e013f834628, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
